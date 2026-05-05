@@ -1,0 +1,27 @@
+{
+  "name": "fullstackopen-part8",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dajamis/fullstackopen-part8#readme",
+  "bugs": {
+    "url": "https://github.com/dajamis/fullstackopen-part8/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dajamis/fullstackopen-part8.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^5.5.0",
+    "graphql": "^16.13.2"
+  },
+  "devDependencies": {}
+}
